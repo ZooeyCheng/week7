@@ -46,7 +46,7 @@ table {
 .header {
   height: 958px;
   border-bottom: 1px solid #707070;
-  background-image: url(../img/background.png);
+  background-image: url(/assets/images/background.png);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
